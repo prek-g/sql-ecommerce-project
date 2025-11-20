@@ -6,18 +6,25 @@ This project analyzes an e-commerce relational database inspired by Amazon-like 
 # Project Objectives
 ## Main Objectives
 
--Clean and validate all tables to ensure reliable analysis.
--Identify trends across sales, customers, inventory, payments, and logistics.
--Detect operational issues such as low stock, late deliveries, and failed payments.
--Build analytical SQL queries to solve real business problems.
--Implement a stored procedure to automate order creation and inventory adjustments.
+- Clean and validate all tables to ensure reliable analysis.
+
+- Identify trends across sales, customers, inventory, payments, and logistics.
+
+- Detect operational issues such as low stock, late deliveries, and failed payments.
+
+- Build analytical SQL queries to solve real business problems.
+
+- Implement a stored procedure to automate order creation and inventory adjustments.
 
 ## Business-Focused Summary
 
--Establish a consistent dataset for accurate reporting.
--Analyze category performance, seller activity, customer behavior, and delivery quality.
--Surface risks such as declining revenue, fulfillment delays, and stock shortages.
--Deliver SQL-driven solutions that support operational decisions.
+- Establish a consistent dataset for accurate reporting.
+
+- Analyze category performance, seller activity, customer behavior, and delivery quality.
+
+- Surface risks such as declining revenue, fulfillment delays, and stock shortages.
+
+- Deliver SQL-driven solutions that support operational decisions.
 
 An ERD diagram is included to visually represent the database schema and relationships between tables.
 
@@ -704,5 +711,6 @@ WHERE order_id = 21630 -- new record has been added
 # Conclusion
 
 This project brings together data preparation, relational modeling, and advanced SQL analytics to extract meaningful insights from an e-commerce dataset. By validating the data, enforcing clean structure, and applying well-designed queries, we transformed raw tables into a solid foundation for business analysis. The final results highlight trends in sales, customer behavior, seller performance, inventory status, and operational efficiency, demonstrating how SQL can drive clear and actionable decision-making in an e-commerce environment.
+
 
 	
