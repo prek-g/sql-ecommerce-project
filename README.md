@@ -6,7 +6,7 @@ This project analyzes an e-commerce relational database inspired by Amazon-like 
 # Project Objectives
 ## Main Objectives
 
-- Clean and validate all tables to ensure reliable analysis.
+- Clean, validate, and transform all tables to ensure reliable analysis.
 
 - Identify trends across sales, customers, inventory, payments, and logistics.
 
@@ -14,19 +14,21 @@ This project analyzes an e-commerce relational database inspired by Amazon-like 
 
 - Build analytical SQL queries to solve real business problems.
 
+- **Create visual insights and dashboards in Power BI to communicate key metrics**.
+
 - Implement a stored procedure to automate order creation and inventory adjustments.
 
 ## Business-Focused Summary
 
-- Establish a consistent dataset for accurate reporting.
+- Establish a consistent dataset for accurate reporting and visualization.
 
 - Analyze category performance, seller activity, customer behavior, and delivery quality.
 
 - Surface risks such as declining revenue, fulfillment delays, and stock shortages.
 
-- Deliver SQL-driven solutions that support operational decisions.
+- **Deliver SQL-driven solutions and Power BI dashboards that support operational decisions**.
 
-An ERD diagram is included to visually represent the database schema and relationships between tables.
+- Include an ERD diagram to visually represent the database schema and table relationships.
 
 
 ## **Tasks in this project**
@@ -714,3 +716,4 @@ This project brings together data preparation, relational modeling, and advanced
 
 
 	
+
