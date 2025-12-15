@@ -2,7 +2,7 @@
 
 # Project Overview
 This project analyzes an e-commerce relational database inspired by Amazon-like operations. It focuses on cleaning, validating, and transforming raw data to produce business insights across sales, customers, inventory, shipping, and profitability.
-
+![powerbi](PowerBi/PowerBi_Amazon_Insights.png)
 # Project Objectives
 ## Main Objectives
 
@@ -716,4 +716,5 @@ This project brings together data preparation, relational modeling, and advanced
 
 
 	
+
 
